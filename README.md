@@ -8,7 +8,7 @@ JavaScript Closures
 3. Practice using a closure
 4. Describe use cases for closures in JavaScript
 
-## Introduction — The Spy Who Ate Me
+## Introduction —  The Spy Who Ate Me
 
 ![Fat Bastard](https://66.media.tumblr.com/c22f08b92534e472c9bf987bb1ee5888/tumblr_mn7jmySprl1srsy9vo1_500.gif)
 
